@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OceanMonitoring.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f051ad8d86ac245eb8071d810f89d753d5119961")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c9367e15ea04a6d08567d705578163d1ca7a0d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("OceanMonitoring.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OceanMonitoring.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
