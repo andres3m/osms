@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WsYDRJ/CfX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andrew\\source\\repos\\andres3m\\osms\\src\\OceanMonitoring.API\\OceanMonitoring.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andriu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\Andriu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
